@@ -1,7 +1,10 @@
+import { CardJs } from "./components/card";
+
 function App() {
   return (
     <div className="App">
-          Learn React
+      Atividade para fins academicos
+      <CardJs />
     </div>
   );
 }
